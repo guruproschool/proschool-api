@@ -4,7 +4,7 @@ name: proschool-api
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   build:
