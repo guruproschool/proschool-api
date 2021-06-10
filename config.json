@@ -1,0 +1,15 @@
+{
+    "dbhost" : "localhost",
+    "emailHost":"http://localhost:3001/home.html#/",
+    "nodemailerservice":"gmail",
+    "nodemaileruser":"proschool180190@gmail.com",
+    "nodemailerpass":"PROSchool1801",
+
+    "secretKey": "ex23hf9284y9er2ehfbdbvcv83yehrdf8273",
+    "dbname": "proschool",
+    "dburl": "mongodb://13.126.140.230:27017/proschool",
+    "loginUrl": "mongodb://13.126.140.230:27017/auth",
+
+    "RAZOR_PAY_KEY_ID": "rzp_test_vIAUwhzUmiPqKJ",
+    "RAZOR_PAY_KEY_SECRET": "vfpBuiBxg29Trcrll7vJh1UG"
+}
